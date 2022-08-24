@@ -72,7 +72,7 @@
 }
 
 .p-text {
-    font-size: 0.8rem;
+    font-size: 1rem;
     text-align: left;
     color: var(--gray-color);
     line-height: 1.5;
@@ -132,6 +132,13 @@
             svg {
                 color: var(--white-color);
             }
+        }
+
+        a {
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         @media screen and (min-width: 2000px) {
