@@ -47,7 +47,7 @@
 
     p {
         text-transform: uppercase;
-        color: var(--black-color);
+        color: var(--gray-color);
     }
 }
 
@@ -59,7 +59,7 @@
     text-transform: capitalize;
 
     span {
-        color: var(--secondary-color);
+        color: var(--gray-color);
     }
 
     @media screen and (min-width: 2000px) {

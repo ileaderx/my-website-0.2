@@ -3,7 +3,7 @@
 :root {
   --font-base: "DM Sans", sans-serif;
 
-  --primary-color: #7686A6;
+  --primary-color: #FFF4EB;
   --secondary-color: #F2D5D8;
   --black-color: #030303;
   --lightGray-color: #D06261;
@@ -17,4 +17,10 @@
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+}
+.icon {
+  border-radius: 50%;
+  border: 2px solid red;
+  padding: 5px;
+  font-size: 30px;
 }

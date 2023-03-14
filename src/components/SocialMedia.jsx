@@ -13,7 +13,7 @@ const SocialMedia = () => {
           <a href='https://www.facebook.com/warrd.alburom'><FaFacebookF/></a>
         </div>
         <div>
-        <a href='https://www.instagram.com/wb7_'><BsInstagram/></a>
+        <a href='https://www.instagram.com/9iotadev'><BsInstagram/></a>
         </div>
     </div>
   )
