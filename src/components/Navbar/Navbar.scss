@@ -17,15 +17,21 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    
 
     img{
-        width: 85px;
-        height: 85px;
+        width: 75px;
+        border: 2px solid #8C3545;
+        border-radius: 50%;
+        transition: box-shadow 0.9s;
 
         @media screen and(min-width: 2000px) {
             width: 180px;
             height: 180px;
         }
+    }
+    img:hover{
+        box-shadow: 0 0 20px #8C3545; 
     }
 }
 

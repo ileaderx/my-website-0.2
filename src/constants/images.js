@@ -25,7 +25,7 @@ import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
+import logo from '../assets/9iota.png';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -34,6 +34,17 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
+import website from '../assets/website.png';
+import youtube from '../assets/youtube.png';
+import share from '../assets/share.png';
+import twitter from '../assets/twitter.png';
+import instagram from '../assets/instagram.png';
+import tiktok from '../assets/tiktok.png';
+import linkedin from '../assets/linkedin.png';
+import whatsapp from '../assets/whatsapp.png';
+import mail from '../assets/mail.png';
+import github from '../assets/github.png';
+
 
 export default {
   email,
@@ -69,4 +80,14 @@ export default {
   nb,
   skype,
   spotify,
+  website,
+  youtube,
+  share,
+  twitter,
+  instagram,
+  tiktok,
+  linkedin,
+  whatsapp,
+  mail,
+  github,
 };
