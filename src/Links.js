@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { Footer, Links } from './container'
-import { Navbar } from './components';
+import { Links } from './container'
+
 import './App.scss'
 
 const Link = () => {

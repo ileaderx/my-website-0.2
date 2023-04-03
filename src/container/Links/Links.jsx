@@ -14,11 +14,12 @@ const Links = () => {
                         <img
                             src={images.profile} alt="Ward Al Borom Avatar" />
                     </div>
+
                     <br />
-                    <h3 style={{marginBottom: 5}}>WARD AL BOROM | Software Engineer</h3>
+                    <h3 style={{ marginBottom: 5 }}>WARD AL BOROM | Software Engineer</h3>
                     <h2>ورد البرم | مهندس برمجيات</h2>
-                    <p class="bio">I'm a software engineer with 2 years of experience skilled 
-                        in web and mobile 
+                    <p class="bio">I'm a software engineer with 2 years of experience skilled
+                        in web and mobile
                         development with React and React Native.
                         Committed to continuous learning and delivering quality results.</p>
                     <br />
@@ -54,7 +55,7 @@ const Links = () => {
                     </a>
                     <a class="tile" href="https://www.twitter.com/ileaderx">
                         <div class="links-icon">
-                            <img src={images.twitter}  alt="Twitter Icon" />
+                            <img src={images.twitter} alt="Twitter Icon" />
                         </div>
                         <p>Personal Twitter</p>
                     </a>
@@ -66,7 +67,7 @@ const Links = () => {
                     </a>
                     <a class="tile" href="https://www.instagram.com/wb7_">
                         <div class="links-icon">
-                            <img src={images.instagram}  alt="Instagram Icon" />
+                            <img src={images.instagram} alt="Instagram Icon" />
                         </div>
                         <p>Personal Instagram</p>
                     </a>
@@ -101,7 +102,7 @@ const Links = () => {
                         <p>Linkedin</p>
                     </a>
                     <br />
-                    <p>Made With ❤️ By Ward</p>
+                    <p class="footer-paragraph">Made With ❤️ By Ward</p>
                 </div>
             </div>
 
